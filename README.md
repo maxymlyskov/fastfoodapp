@@ -18,3 +18,8 @@
 
 # Login Screen
 ![foodapplogin](https://user-images.githubusercontent.com/84620852/141538937-472cb542-2f87-4ce1-a3ef-3419b499183c.jpg)
+
+# Other frontend projects: 
+# https://github.com/maxymlyskov/DoneWithIt 
+# https://github.com/maxymlyskov/mowee
+# https://github.com/maxymlyskov/recipe-app
