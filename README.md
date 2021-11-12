@@ -1,5 +1,5 @@
 # fastfoodapp
-# Main page ![foodapp1](https://user-images.githubusercontent.com/84620852/141538669-dbdef4d7-c90f-4c53-bcce-6c8817c65014.jpg)
+![Main Page](https://user-images.githubusercontent.com/84620852/141538669-dbdef4d7-c90f-4c53-bcce-6c8817c65014.jpg)
 
 # Pre-detailspage ![foodappdetails](https://user-images.githubusercontent.com/84620852/141538728-10aab02f-0af3-4f06-8499-b360e41237fa.jpg)
 
